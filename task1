@@ -1,0 +1,9 @@
+Netflix Data Cleaning
+Dataset:
+Netflix Movies and TV Shows from Kaggle
+Cleaning Performed:
+-Import data
+-libraries
+- Removed duplicates
+- Handled missing values 
+(filled or dropped)
